@@ -1,0 +1,7 @@
+/home/wjx/myShell/CMakeFiles/myShell.dir
+/home/wjx/myShell/CMakeFiles/edit_cache.dir
+/home/wjx/myShell/CMakeFiles/rebuild_cache.dir
+/home/wjx/myShell/CMakeFiles/list_install_components.dir
+/home/wjx/myShell/CMakeFiles/install.dir
+/home/wjx/myShell/CMakeFiles/install/local.dir
+/home/wjx/myShell/CMakeFiles/install/strip.dir
