@@ -1,0 +1,15 @@
+CMakeCache.txt
+CMakeFiles
+CMakeLists.txt
+CMakelists.txt
+Command.cpp
+Command.h
+Makefile
+README.md
+Shell.cpp
+Shell.h
+cmake_install.cmake
+main.cpp
+myShell
+output.txt
+test.sh
